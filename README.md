@@ -31,8 +31,8 @@
 
 ## 1. Setup
 
-1. Create a new HTML/CSS/JS-based Repl in [replit.com](https://replit.com/~)
-2. Name it "JS Classes"
+1. Create and scaffold an HTML, CSS, and JS file in your Unit1/Week2/Monday directory
+2. Open it in your VSCode and get LiveServer ready
 3. Add a bit of familiar looking HTML to _index.html_:
 
     ```html
